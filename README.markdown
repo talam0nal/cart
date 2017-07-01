@@ -21,3 +21,8 @@ Talam0nal\Cart\CartServiceProvider::class
 ```shell
 php artisan vendor:publish
 ```
+
+5. Run new migrations
+```shell
+php artisan migrate
+```
