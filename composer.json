@@ -1,0 +1,19 @@
+{
+    "name": "talam0nal/cart",
+    "description": "Simple shopping cart",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "talam0nal",
+            "email": "talam0nal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Talam0nal\\Cart\\": ""
+        }
+    }
+}
