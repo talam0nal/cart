@@ -10,7 +10,7 @@ Installation
     ],
 ```
 
-2. The preferred way to install Cart is through Composer. For this, add "talam0nal/cart": "*" to the requirements in your composer.json file
+2. The preferred way to install *Cart* is through Composer. For this, add "talam0nal/cart": "*@dev" to the requirements in your composer.json file. Note: considering the features of this package its required GIT installation.
 
 
 3. Add *CartServiceProvider::class* to config/app.php 

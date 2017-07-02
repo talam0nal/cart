@@ -9,7 +9,6 @@
             "email": "talam0nal@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
