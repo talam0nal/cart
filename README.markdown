@@ -40,6 +40,6 @@ Cart::user($id)->product($id)->remove(); //Removes product from cart
 Cart::user($id)->purge(); //Purges the cart
 Cart::user($id)->getTotalQuantity(); //Returns amount of items in the cart
 Cart::user($id)->getSum(); //Returns total sum of cart
-Cart::user(1)->simpleDiscount(40); //Returns total sum of carty after simple discount
+Cart::user(1)->simpleDiscount(40); //Returns total sum of cart after simple discount
 Cart::user(1)->percentageDiscount(40); //Returns total sum of cart after percentage discount
 ```
